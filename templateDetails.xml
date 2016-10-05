@@ -3,16 +3,16 @@
 
 <extension version="3.3" type="template" client="site" method="upgrade">
 	
-	<name>frontend</name><!-- name the template -->
-	<creationDate>xxxx-xx-xx</creationDate><!-- the date your are beginn to code -->
-	<author>your name</author><!-- your name (oops, I repeat myself) -->
+	<name>Joomlarize</name><!-- name the template -->
+	<creationDate>05-10-2016</creationDate><!-- the date your are beginn to code -->
+	<author>Carlos López</author><!-- your name (oops, I repeat myself) -->
 	<copyright>Copyright © xxxx example.com</copyright><!-- for who you are coding -->
-	<authorEmail>your.name@example.com</authorEmail><!-- your email address -->
-	<authorUrl>http://www.example.com</authorUrl><!-- your url -->
+	<authorEmail>carlos@exea.net</authorEmail><!-- your email address -->
+	<authorUrl>http://www.exea.net</authorUrl><!-- your url -->
 	<version>1.0.0</version><!-- give your template a number -->
 	<description><![CDATA[ 
-		<h1>frontend</h1>
-		<p>Created by <a href="http://www.example.com" target="_blank">your name | example.com</a>.</p>
+		<h1>Exea</h1>
+		<p>Creado por <a href="http://www.example.com" target="_blank">Carlos López | exea.net</a>.</p>
 	]]></description><!-- change the description as you like -->
 	
 	<files><!-- no need to change -->
